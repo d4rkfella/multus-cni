@@ -7,6 +7,7 @@ contents:
     - wolfi-baselayout
     - multus-cni
     - multus-cni-compat
+accounts:
   run-as: root:root
 environment:
   PATH: /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
